@@ -33,7 +33,7 @@ api.post('/math', async (request, response) => {
             if(operation == 'division') result = parseFloat(x / y).toFixed(2);
 
             response.status(200).json({
-                slackUsername:Chiso',
+                slackUsername:'Chiso',
                 result: result,
                 operation_type: operation
             })

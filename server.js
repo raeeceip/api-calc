@@ -55,7 +55,7 @@ api.post('/math', async (request, response) => {
             
 
             response.status(200).json({
-                slackUsername: 'Silver',
+                slackUsername: 'Chiso',
                 result: parseFloat(answer),
                 operation_type: ops
             })

@@ -1,6 +1,6 @@
 ## HNG task 2 by raeeceip with AI and Machine Learning capabilities
 
-- Endpoint is a POST api https://hng-backend-stage2-task.vercel.app/math
+- Endpoint is a POST api https://api-calc.vercel.app/math
 - Backend is built with expressJs and openAI
 - It takes this inputs
 
